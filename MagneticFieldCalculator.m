@@ -1,3 +1,5 @@
+
+%Josh made this edit in vi because somehow he doesn't have matlab... what!!! 
 %simple vertical conductor
 clear
 close all
